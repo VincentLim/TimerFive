@@ -1,5 +1,5 @@
 /**
- * 2016 Vincent Limorté
+ * 2016 Vincent LimortÃ©
  * Test and sample using Timer5 lib.
  *
  */
