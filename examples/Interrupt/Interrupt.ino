@@ -10,8 +10,8 @@ const int led = LED_BUILTIN;  // the pin with a LED
 void setup(void)
 {
   pinMode(led, OUTPUT);
-  Timer4.initialize(150000);
-  Timer4.attachInterrupt(blinkLED); // blinkLED to run every 0.15 seconds
+  Timer5.initialize(150000);
+  Timer5.attachInterrupt(blinkLED); // blinkLED to run every 0.15 seconds
   Serial.begin(9600);
 }
 
