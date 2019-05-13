@@ -23,7 +23,7 @@
 #include "WProgram.h"
 #endif
 
-#include "config/known_16bit_timers.h"
+#include "config/timer_five_pins.h"
 
 #define TIMER5_RESOLUTION 65536UL  // Timer5 is 16 bit
 
